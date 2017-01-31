@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# syntax: ./scanner.sh nmap [options] < input.txt
+# syntax: ./pitchfork-scan.sh nmap [options] < input.txt
 #
 # input format:
 #	
